@@ -1,0 +1,30 @@
+{
+"info": {
+"name": "Redirected Collection",
+"_postman_id": "9a618622-5b6b-4304-ad8a-6153c841761e",
+"description": "Created via Laravel redirect",
+"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+},
+"item": [
+{
+"name": "Redirected GET",
+"request": {
+"method": "GET",
+"url": {
+"raw": "https://jsonplaceholder.typicode.com/posts/1",
+"protocol": "https",
+"host": [
+"jsonplaceholder",
+"typicode",
+"com"
+],
+"path": [
+"posts",
+"1"
+]
+}
+}
+}
+]
+}
+
